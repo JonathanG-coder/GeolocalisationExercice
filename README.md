@@ -35,3 +35,16 @@ Installer la dépendance nécessaire pour la gestion des zones sûres sur mobile
 
 ```bash
 npx expo install react-native-safe-area-context
+
+
+## Installation d'EAS CLI
+
+EAS CLI (Expo Application Services Command Line Interface) est un outil en ligne de commande qui permet de **construire, déployer et gérer vos applications Expo** plus facilement, notamment pour les builds sur Android et iOS, la gestion des certificats et la publication.
+
+Pour l’installer globalement sur votre machine, utilisez la commande suivante dans le terminal :
+
+```bash
+npm install -g eas-cli
+
+
+
